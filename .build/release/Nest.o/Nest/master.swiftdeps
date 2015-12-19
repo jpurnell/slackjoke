@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 0ddf238ad7)"
+options: "cb72845c4fbcb6a706c3cf2213f578c5"
+build_time: [503880056, 435449000]
+inputs:
+  "/Users/jpurnell/Documents/slackjoke/Packages/Nest-0.2.1/Sources/Nest.swift": [503879591, 0]
